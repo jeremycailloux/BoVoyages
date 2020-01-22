@@ -1,0 +1,14 @@
+.paiement{
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top: 1%;
+    padding: 1%;    
+    background-color: rgb(228, 228, 228);
+    border-radius: 20px;    
+}
+
+.voyagedetails{
+    border-bottom: 2px solid  white;
+    background-color: rgb(238, 230, 230);
+    margin-bottom: 1%;
+}
